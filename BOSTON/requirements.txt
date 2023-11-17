@@ -2,4 +2,4 @@ Flask
 numpy
 waitress
 scikit-learn==1.0.2
-joblib==1.0.2
+joblib
