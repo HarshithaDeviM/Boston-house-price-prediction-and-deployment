@@ -70,3 +70,7 @@ Access the Application:
 Open a web browser and go to http://localhost:5000 to view the application.
 ## Acknowledgments
 Special thanks to the scikit-learn and Flask communities.
+Thanks for your contribution, [@Ajay](https://github.com/AjayK47)!
+
+
+
