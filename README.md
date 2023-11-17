@@ -19,15 +19,20 @@ Prediction: The system predicts the median housing cost based on the provided in
 User-Friendly Interface: The web interface is designed to be intuitive and user-friendly.
 
 ## How the Website Works
+
+https://boston-house-price-prediction-pmhs.onrender.com
+
 Enter Information:
 
  Visit the website and Enter the required information in the input fields.
+ ![image](https://github.com/HarshithaDeviM/Boston-house-price-prediction-and-deployment/assets/147257340/da711de8-ae91-47b1-92d8-12d44bb94002)
 
-Click "Predict":
-
-After entering the necessary details, click the "Predict" button.
+After entering the necessary details, click the "Submit" button.
 
 View Prediction:
+
+![image](https://github.com/HarshithaDeviM/Boston-house-price-prediction-and-deployment/assets/147257340/94ea6b5e-b2fc-42d4-bdb6-179e9df53292)
+
 
 The system processes the input using machine learning models.
 
