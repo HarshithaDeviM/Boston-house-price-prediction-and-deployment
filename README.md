@@ -45,7 +45,7 @@ To run this project locally, follow the steps in the Installation section of the
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/boston-house-price-prediction.git
+git clone https://github.com/HarshithaDeviM/Boston-house-price-prediction-and-deployment.git
 ```
 Navigate to the Project Directory:
 
