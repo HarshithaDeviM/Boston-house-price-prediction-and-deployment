@@ -5,8 +5,8 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the Boston Housing model and scaler
-model = load('C:/Users/harsh/Downloads/BOSTON/model.joblib')
-scaler = load('C:/Users/harsh/Downloads/BOSTON/scaler.joblib')
+model = load('model.joblib')
+scaler = load('scaler.joblib')
 
 @app.route('/')
 def home():
