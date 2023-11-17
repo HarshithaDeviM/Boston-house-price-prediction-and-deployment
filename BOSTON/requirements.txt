@@ -1,5 +1,4 @@
-Flask
+Flask==2.2.5
+scikit-learn
 numpy
 waitress
-scikit-learn==1.0.2
-joblib
