@@ -76,7 +76,8 @@ Open a web browser and go to http://localhost:5000 to view the application.
 ## Acknowledgments
 Special thanks to the scikit-learn and Flask communities.
 
-Thanks for your contributions, [@Ajay](https://github.com/AjayK47) [@Sravya](https://github.com/ch-sravya1712)!
+Thanks for your contributions, [@Ajay](https://github.com/AjayK47) [@Sravya](https://github.com/ch-sravya1712)
+[@Rushitha](https://github.com/RushithaM) !
 
 
 
