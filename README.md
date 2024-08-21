@@ -1,5 +1,5 @@
 # Boston-house-price-prediction-and-deployment
-We conducted Boston house price predictions leveraging twelve regression models. Our implementation was deployed using Flask and hosted on the AWS Cloud platform.
+We conducted Boston house price predictions leveraging twelve regression models. Our implementation was deployed using Flask and hosted on the Render platform.
 
 ## Technologies Used
 Python: The core programming language used for the project.
